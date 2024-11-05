@@ -1,0 +1,29 @@
+:root {
+	--background-color: #f5cc74;
+
+	--board-bg-color: #ffffff8f;
+	--card-bg-color: #c8ec64;
+}
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+html {
+	font-size: 62.5%;
+}
+
+body {
+	min-height: 100svh;
+	padding: 4rem;
+	font-family: Arial, Helvetica, sans-serif;
+	background-color: var(--background-color);
+}
+
+button {
+	background: none;
+	border: 1px solid transparent;
+	cursor: pointer;
+}
