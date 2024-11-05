@@ -6,7 +6,7 @@ function App() {
 		<>
 			<header className={styles.header}>
 				<h1>Memory Game</h1>
-				<p>Odnajdź wszystkie pary!</p>
+				<p>Odnajdź wszystkie pary jak najszybciej!</p>
 			</header>
 			<main className={styles.main}>
 				<section className={styles.board}>
